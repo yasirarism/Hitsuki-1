@@ -18,7 +18,7 @@ sw_api: 'zHoe6xIZQ3stv5r0GLszK_Ov5IuZbI5imb2Uz_AeLyPKv0Wu5Sr2iN6tsIMftL_s'
 lastfm_api_key: ''
 
 # Database
-database_url: "postgres://username:password@host:5432/database_name"
+database_url: "postgres://zwzykekz:jrtCwGgZ7206_5JPr_S39fkJ8G-r-4qh@drona.db.elephantsql.com:5432/zwzykekz"
 
 # Permission
 sudo_users: []
