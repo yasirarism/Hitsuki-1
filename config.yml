@@ -2,19 +2,19 @@
 # Please edit this line to "not_sample_anymore" to make the bot run
 is_example_config_or_not: "Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
 ##############################
-bot_token: "Your bot token"
-api_key: ''
-api_hash: ''
-owner_id: 123456
-owner_username: "OWNER USERNAME"
-message_dump: "CHAT ID"
-gban_dump: "CHAT ID"
+bot_token: "1145291284:AAEBdqXLA-wgoZ4K0R4SqsMewdfAW4skQX0"
+api_key: '1046625'
+api_hash: 'c68afc924b92d73ce27708b155f1e5b4'
+owner_id: 617426792
+owner_username: "YasirArisM"
+message_dump: "-1001168126523"
+gban_dump: "-1001168126523"
 load: []
 no_load: []
-strict_antispam: False
+strict_antispam: True
 workers: 4
-del_cmds: False
-sw_api: ''
+del_cmds: True
+sw_api: 'zHoe6xIZQ3stv5r0GLszK_Ov5IuZbI5imb2Uz_AeLyPKv0Wu5Sr2iN6tsIMftL_s'
 lastfm_api_key: ''
 
 # Database
